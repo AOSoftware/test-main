@@ -1,0 +1,36 @@
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-2.use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/pages/test/home/ZoneEditable.vue?vue&type=style&index=0&id=8783bf28&lang=scss& ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.zone-editable {
+  border: 1px solid #dee2e6;
+  padding: 0.8rem;
+  border-radius: 4px;
+}
+.zone-editable .zone-display {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.zone-editable .zone-edit {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.zone-editable .zone-edit .zone-edit-actions {
+  display: flex;
+  gap: 4px;
+  justify-content: end;
+}
+.zone-editable .zone-edit .zone-edit-distributions {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 4px;
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-2.use[2]!./node_modules/vue-loader/lib/index.js??vue-loader-options!./resources/js/pages/test/home/HomePage.vue?vue&type=style&index=0&id=d022a56c&lang=scss& ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.home-page .zones {
+  display: flex;
+  gap: 4px;
+  flex-direction: column;
+}
